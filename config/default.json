@@ -1,8 +1,8 @@
 {
 	"baseUrl": "https://login.salesforce.com",
 	"responseType": "code",
-	"clientId": "3MVG9p1Q1BCe9GmAiWYDmlw0gauTptpXCYNy.v9BdJ4CZVECRqHuFLoM12ZBpAkefZu5gIm7KtSLCbo2tF_vW",
-	"clientSecret": "03C615D389E42818A6DE8A48DA71B75C460B7360E531BD3846D19606AB021AFA",
+	"clientId": "",
+	"clientSecret": "",
 	"redirectURI": "http://localhost:3000/callback",
 	"scope": "full refresh_token"
 }
