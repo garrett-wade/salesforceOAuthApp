@@ -1,6 +1,6 @@
 # salesforceOAuthApp
 
-##Usage
+## Usage
 
 1. Create a aalesforce connected app
 2. Update the redirect uri of the salesforce connected app to `http://localhost:3000/callback`
