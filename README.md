@@ -2,7 +2,7 @@
 
 ## Usage
 
-1. Create a aalesforce connected app
+1. Create a salesforce connected app
 2. Update the redirect uri of the salesforce connected app to `http://localhost:3000/callback`
 3. Relax the IP restrictions of the connected app
 4. Clone the repository locally
